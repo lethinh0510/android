@@ -13,5 +13,8 @@
         android:layout_height="wrap_content"
         android:text="@string/thinhcece"
         android:id="@+id/edmew"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
