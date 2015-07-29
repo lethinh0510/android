@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         btDemo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(),"jndcsd", LENGTH_LONG).show();
+                //Toast.makeText(getApplicationContext(),"jndcsd", LENGTH_LONG).show();
 
             }
         });
